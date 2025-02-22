@@ -25,7 +25,7 @@ h6,
 }
 
 .btn {
-    font-family: 'Jost', sans-serif;
+    font-family: "Jost", sans-serif;
     font-weight: 600;
     transition: 0.5s;
 }
@@ -91,7 +91,7 @@ h6,
 
 .top-shape::before {
     position: absolute;
-    content: '';
+    content: "";
     width: 35px;
     height: 100%;
     top: 0;
@@ -101,7 +101,7 @@ h6,
 }
 
 .navbar-light .navbar-nav .nav-link {
-    font-family: 'Jost', sans-serif;
+    font-family: "Jost", sans-serif;
     padding: 35px 15px;
     font-size: 18px;
     color: var(--dark);
@@ -167,7 +167,7 @@ h6,
 
 .section-title h5::before {
     position: absolute;
-    content: '';
+    content: "";
     width: 45px;
     height: 3px;
     right: -55px;
@@ -177,7 +177,7 @@ h6,
 
 .section-title h5::after {
     position: absolute;
-    content: '';
+    content: "";
     width: 15px;
     height: 3px;
     right: -75px;
@@ -224,7 +224,7 @@ h6,
 .team-item .team-text::after,
 .service-item .bg-light::after {
     position: absolute;
-    content: '';
+    content: "";
     top: 50%;
     bottom: 0;
     left: 15px;
@@ -257,7 +257,7 @@ h6,
 }
 
 .offer-text {
-    background: #2bae6694;
+    background: #2bae66;
 }
 
 .price-carousel .owl-nav {
@@ -302,7 +302,7 @@ h6,
 }
 
 .testimonial-carousel {
-    background: #2bae6694;
+    background: #2bae66;
 }
 
 .testimonial-carousel .owl-nav {
@@ -359,7 +359,7 @@ h6,
 }
 
 .cookie-wrapper * {
-    font-family: 'Raleway', sans-serif;
+    font-family: "Raleway", sans-serif;
 }
 
 .cookie-wrapper .show {
